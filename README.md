@@ -1,5 +1,6 @@
 vsSmartAssist - VS Code Extension
 
+
 AI Code Assistant is a powerful VS Code extension that helps developers with:
 
 Code conversion between different programming languages.
@@ -13,6 +14,7 @@ Generating full solutions for problems.
 Real-time feedback and encouragement.
 
 Code optimization suggestions to improve efficiency.
+
 
 🚀 Features
 
@@ -29,7 +31,9 @@ Get real-time feedback on logic and correctness.
 Receive optimization suggestions to enhance code performance.
 
 
+
 📦 Installation
+
 
 1️⃣ Prerequisites
 
@@ -39,15 +43,18 @@ Node.js (Latest LTS version recommended)
 
 Visual Studio Code
 
+
 2️⃣ Clone the Repository
 
  git clone https://github.com/your-repo/ai-code-assistant.git
  
  cd ai-code-assistant
+ 
 
 3️⃣ Install Dependencies
 
 npm install
+
 
 4️⃣ Run the Extension in VS Code
 
@@ -67,7 +74,6 @@ A new VS Code window (Extension Development Host) will open where you can test t
 🛠️ Usage
 
 Open any file in VS Code.
-
 Open the Command Palette (Ctrl + Shift + P).
 
 Search for the following commands:
