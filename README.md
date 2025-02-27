@@ -34,9 +34,9 @@ Visual Studio Code
 
 2️⃣ Clone the Repository
 
- git clone https://github.com/your-repo/ai-code-assistant.git
+ git clone https://github.com/your-repo/vssmartassist.git
 
- cd ai-code-assistant
+ cd vssmartassist
  
 
 3️⃣ Install Dependencies
